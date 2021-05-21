@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daMelody
 - 👀 I’m an aspiring polyglot -- at least with regard to programming languages
-- 🌱 I’m currently learning Rust, Python, Docker, bash/fish/sh
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Rust, Python, Docker, bash/fish/sh, and Ruby on Rails
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/daniel-melody-4325a1ba/) or [Twitter](https://twitter.com/dw_melody)
 
 <!---
