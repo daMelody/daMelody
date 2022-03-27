@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daMelody
-- 👀 I’m an aspiring polyglot -- at least with regard to programming languages
-- 🌱 I’m currently learning Rust, Python, Docker, bash/fish/sh, and Ruby on Rails
+- 👀 I’m a Salesforce Developer with an interest in Linux and other programming languages
+- 🌱 I’m currently working towards the Salesforce Platform Developer 2 certification
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/daniel-melody-4325a1ba/) or [Twitter](https://twitter.com/dw_melody)
 
 <!---
